@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<stickers>
+  <sticker>
+    <name>Panda</name>c <!--Index 0-->
+    <file>https://cdn.discordapp.com/attachments/521724069196857356/524403816691531782/Panda.jpg</file> <!--Index 1-->
+    <description>This is a panda</description> <!--Index 2-->
+  </sticker>
+  <sticker>
+    <name>Cat</name>
+    <file>https://cdn.discordapp.com/attachments/521724069196857356/524403797393539152/Cat.jpg</file>
+    <description>This is a Cat</description>
+  </sticker>
+</stickers>
